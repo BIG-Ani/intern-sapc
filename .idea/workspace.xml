@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="034edd56-7d52-4c46-b851-f7b39e8830ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/AuthExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/AuthExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/BigQuerySimpleApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/BigQuerySimpleApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/QuickstartSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/QuickstartSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +59,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.1925" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -117,7 +114,7 @@
       <updated>1590908902011</updated>
       <workItem from="1590908905462" duration="6135000" />
       <workItem from="1590948710704" duration="11464000" />
-      <workItem from="1591032375494" duration="707000" />
+      <workItem from="1591032375494" duration="1296000" />
     </task>
     <servers />
   </component>
